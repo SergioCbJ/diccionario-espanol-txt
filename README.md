@@ -1,4 +1,4 @@
-# List of all spanish words. Source RAE
+TU MADRE
 
 Work explained here:
 https://duenaslerin.com/diccionario-palabras-espanol-en-texto-script/
